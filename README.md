@@ -1,2 +1,2 @@
-#设计模式之命令模式 
+#Command mode of design pattern
 
